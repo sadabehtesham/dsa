@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sadabehtesham/dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sadabehtesham/dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadabehtesham/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sadabehtesham/dsa/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
