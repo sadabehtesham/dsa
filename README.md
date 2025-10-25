@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sadabehtesham/dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadabehtesham/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/sadabehtesham/dsa/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sadabehtesham/dsa/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
@@ -54,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sadabehtesham/dsa/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sadabehtesham/dsa/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
