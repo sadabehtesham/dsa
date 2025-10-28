@@ -1,7 +1,6 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> res=new ArrayList<>();
-        List<Integer> curr=new ArrayList<>();
         com(1,n,k,new ArrayList<>(),res);
         return res;
     }
