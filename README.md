@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sadabehtesham/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sadabehtesham/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sadabehtesham/dsa/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sadabehtesham/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sadabehtesham/dsa/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadabehtesham/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sadabehtesham/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadabehtesham/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sadabehtesham/dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
