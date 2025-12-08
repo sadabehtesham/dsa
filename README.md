@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sadabehtesham/dsa/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sadabehtesham/dsa/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sadabehtesham/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/sadabehtesham/dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadabehtesham/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/sadabehtesham/dsa/tree/master/0137-single-number-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sadabehtesham/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
