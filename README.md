@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sadabehtesham/dsa/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadabehtesham/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sadabehtesham/dsa/tree/master/0061-rotate-list) |
+| [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sadabehtesham/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
+| [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
