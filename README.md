@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadabehtesham/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/sadabehtesham/dsa/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
