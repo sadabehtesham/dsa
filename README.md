@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sadabehtesham/dsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sadabehtesham/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sadabehtesham/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sadabehtesham/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sadabehtesham/dsa/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sadabehtesham/dsa/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/sadabehtesham/dsa/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/sadabehtesham/dsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sadabehtesham/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
