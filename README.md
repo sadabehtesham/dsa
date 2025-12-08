@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sadabehtesham/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sadabehtesham/dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sadabehtesham/dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sadabehtesham/dsa/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadabehtesham/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sadabehtesham/dsa/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
