@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sadabehtesham/dsa/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sadabehtesham/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
 | [2643-row-with-maximum-ones](https://github.com/sadabehtesham/dsa/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sadabehtesham/dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sadabehtesham/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sadabehtesham/dsa/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sadabehtesham/dsa/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sadabehtesham/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sadabehtesham/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sadabehtesham/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sadabehtesham/dsa/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/sadabehtesham/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
