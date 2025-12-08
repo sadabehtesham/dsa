@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadabehtesham/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/sadabehtesham/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sadabehtesham/dsa/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sadabehtesham/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sadabehtesham/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sadabehtesham/dsa/tree/master/0051-n-queens) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sadabehtesham/dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadabehtesham/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sadabehtesham/dsa/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sadabehtesham/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadabehtesham/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sadabehtesham/dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sadabehtesham/dsa/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
