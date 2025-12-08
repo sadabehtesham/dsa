@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sadabehtesham/dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadabehtesham/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/sadabehtesham/dsa/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sadabehtesham/dsa/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sadabehtesham/dsa/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sadabehtesham/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sadabehtesham/dsa/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sadabehtesham/dsa/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sadabehtesham/dsa/tree/master/0047-permutations-ii) |
+| [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
