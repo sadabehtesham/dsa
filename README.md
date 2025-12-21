@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sadabehtesham/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sadabehtesham/dsa/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/sadabehtesham/dsa/tree/master/2643-row-with-maximum-ones) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sadabehtesham/dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
