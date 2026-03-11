@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sadabehtesham/dsa/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sadabehtesham/dsa/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [1009-complement-of-base-10-integer](https://github.com/sadabehtesham/dsa/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
