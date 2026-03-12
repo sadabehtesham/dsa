@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sadabehtesham/dsa/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sadabehtesham/dsa/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sadabehtesham/dsa/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sadabehtesham/dsa/tree/master/0175-combine-two-tables) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sadabehtesham/dsa/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sadabehtesham/dsa/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sadabehtesham/dsa/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
