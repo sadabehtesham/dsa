@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sadabehtesham/dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sadabehtesham/dsa/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sadabehtesham/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/sadabehtesham/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sadabehtesham/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sadabehtesham/dsa/tree/master/0090-subsets-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sadabehtesham/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Sorting
 |  |
 | ------- |
