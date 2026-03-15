@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [1622-fancy-sequence](https://github.com/sadabehtesham/dsa/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sadabehtesham/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sadabehtesham/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/sadabehtesham/dsa/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/sadabehtesham/dsa/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
