@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/sadabehtesham/dsa/tree/master/2643-row-with-maximum-ones) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sadabehtesham/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [1622-fancy-sequence](https://github.com/sadabehtesham/dsa/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sadabehtesham/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sadabehtesham/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadabehtesham/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sadabehtesham/dsa/tree/master/0074-search-a-2d-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/sadabehtesham/dsa/tree/master/2643-row-with-maximum-ones) |
 ## Database
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sadabehtesham/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
 |  |
@@ -200,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sadabehtesham/dsa/tree/master/1622-fancy-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->
