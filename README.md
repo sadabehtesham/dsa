@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sadabehtesham/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sadabehtesham/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sadabehtesham/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sadabehtesham/dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sadabehtesham/dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sadabehtesham/dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/sadabehtesham/dsa/tree/master/2643-row-with-maximum-ones) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sadabehtesham/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sadabehtesham/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sadabehtesham/dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sadabehtesham/dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sadabehtesham/dsa/tree/master/3643-flip-square-submatrix-vertically) |
 ## Database
@@ -230,4 +232,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sadabehtesham/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sadabehtesham/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sadabehtesham/dsa/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/sadabehtesham/dsa/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
