@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sadabehtesham/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/sadabehtesham/dsa/tree/master/2573-find-the-string-with-lcp) |
 | [2643-row-with-maximum-ones](https://github.com/sadabehtesham/dsa/tree/master/2643-row-with-maximum-ones) |
+| [2751-robot-collisions](https://github.com/sadabehtesham/dsa/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sadabehtesham/dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sadabehtesham/dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sadabehtesham/dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
+| [2751-robot-collisions](https://github.com/sadabehtesham/dsa/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sadabehtesham/dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sadabehtesham/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2751-robot-collisions](https://github.com/sadabehtesham/dsa/tree/master/2751-robot-collisions) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sadabehtesham/dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Linked List
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sadabehtesham/dsa/tree/master/0042-trapping-rain-water) |
+| [2751-robot-collisions](https://github.com/sadabehtesham/dsa/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
