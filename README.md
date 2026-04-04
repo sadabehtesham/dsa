@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sadabehtesham/dsa/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sadabehtesham/dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/sadabehtesham/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/sadabehtesham/dsa/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sadabehtesham/dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sadabehtesham/dsa/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/sadabehtesham/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/sadabehtesham/dsa/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sadabehtesham/dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
