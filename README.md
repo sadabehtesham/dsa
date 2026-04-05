@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sadabehtesham/dsa/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sadabehtesham/dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sadabehtesham/dsa/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/sadabehtesham/dsa/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sadabehtesham/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadabehtesham/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sadabehtesham/dsa/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/sadabehtesham/dsa/tree/master/0213-house-robber-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sadabehtesham/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/sadabehtesham/dsa/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sadabehtesham/dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
