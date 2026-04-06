@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sadabehtesham/dsa/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0874-walking-robot-simulation](https://github.com/sadabehtesham/dsa/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sadabehtesham/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sadabehtesham/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/sadabehtesham/dsa/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/sadabehtesham/dsa/tree/master/0874-walking-robot-simulation) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sadabehtesham/dsa/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/sadabehtesham/dsa/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/sadabehtesham/dsa/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sadabehtesham/dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/sadabehtesham/dsa/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sadabehtesham/dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
