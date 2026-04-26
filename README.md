@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0874-walking-robot-simulation](https://github.com/sadabehtesham/dsa/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sadabehtesham/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sadabehtesham/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sadabehtesham/dsa/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sadabehtesham/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sadabehtesham/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadabehtesham/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sadabehtesham/dsa/tree/master/0074-search-a-2d-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sadabehtesham/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sadabehtesham/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sadabehtesham/dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sadabehtesham/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sadabehtesham/dsa/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/sadabehtesham/dsa/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sadabehtesham/dsa/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sadabehtesham/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sadabehtesham/dsa/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
 |  |
@@ -327,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sadabehtesham/dsa/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sadabehtesham/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
