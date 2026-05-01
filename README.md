@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sadabehtesham/dsa/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sadabehtesham/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/sadabehtesham/dsa/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/sadabehtesham/dsa/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/sadabehtesham/dsa/tree/master/0875-koko-eating-bananas) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sadabehtesham/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sadabehtesham/dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sadabehtesham/dsa/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/sadabehtesham/dsa/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/sadabehtesham/dsa/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sadabehtesham/dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadabehtesham/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sadabehtesham/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sadabehtesham/dsa/tree/master/0213-house-robber-ii) |
+| [0396-rotate-function](https://github.com/sadabehtesham/dsa/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sadabehtesham/dsa/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sadabehtesham/dsa/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/sadabehtesham/dsa/tree/master/2463-minimum-total-distance-traveled) |
