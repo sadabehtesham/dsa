@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sadabehtesham/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sadabehtesham/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sadabehtesham/dsa/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -355,14 +356,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sadabehtesham/dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sadabehtesham/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sadabehtesham/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sadabehtesham/dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sadabehtesham/dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sadabehtesham/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sadabehtesham/dsa/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sadabehtesham/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
